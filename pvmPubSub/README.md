@@ -25,7 +25,7 @@ services.
         
 1. cd into the directory 
     
-        cd pvmPubSub
+        cd gcp_examples/pvmPubSub
         
 1. Build the jar:
         
