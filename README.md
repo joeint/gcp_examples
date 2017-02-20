@@ -3,3 +3,5 @@
 # Google Cloud Platform Java Examples 
 
 Java examples for Google Cloud Platform products.
+
+pvmPubSub - Contains a Java example on how to pull for pub/sub messages.
