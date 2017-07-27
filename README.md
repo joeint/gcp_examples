@@ -4,4 +4,5 @@
 
 Java examples for Google Cloud Platform products.
 
-pvmPubSub - Contains a Java example on how to pull for pub/sub messages.
+pvmPubSub - Example on how to pull for pub/sub messages.
+spannerCRUD - Example on how to do basic CRUD operations against Spanner
